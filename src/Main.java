@@ -22,6 +22,7 @@ public class Main {
         System.out.println("array>50:"+sum);
         System.out.println("array<50:"+sum1);
         System.out.println("dsf");
+        System.out.println("dsf");
     }
 }
 
